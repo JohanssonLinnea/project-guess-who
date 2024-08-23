@@ -4,4 +4,4 @@ This project is a board game called Guess Who. A randomly selected person are se
 
 ## View it live
 
-https://bright-frangipane-f64f01.netlify.app/
+https://projectguesswho.netlify.app/
